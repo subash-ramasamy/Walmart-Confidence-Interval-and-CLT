@@ -2,6 +2,8 @@
 Conducted comprehensive data analysis on walmart data, including structure examination, null value detection, and outlier identification in the dataset.
 Explored and compared average spending patterns among 50 million female and male customers, to derive confidence intervals and provide actionable insights for Walmart's strategic decisions.
 
+Dataset Link:https://drive.google.com/file/d/18q28ENYsMYHaCMG0Vx3HchkGInB5ggvY/view?usp=drive_link
+
 **Key Objectives:**
 
 - Imported the dataset and analyzed its structure.
